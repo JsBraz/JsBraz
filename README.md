@@ -36,3 +36,5 @@ I'm passionate about backend development and DevOps, with a strong focus on scal
 
 📫 **Let's Connect!**
 
+🔹 email me at jsBraz@proton.me
+
